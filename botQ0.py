@@ -3,10 +3,10 @@ import json
 from time import sleep
 
 # Consumer keys and access tokens, used for OAuth
-consumer_key = 'WxEstdKl7ddTImNEUrMLIN0vX'
-consumer_secret = 's2Q7vtBi2NCD8Zbg6kduU9smsd1OiSGvmQvLfJ1RT2A6ilOhen'
-access_token = '847679801850699778-9hc8jJa1rXGvLZ3IAN4gqjiN1eUEZkS'
-access_token_secret = 'GSR7JQtEEECdhi4TYN4rOjUGf4emx6Z0hEvMxdDvA90vY'
+consumer_key = #$
+consumer_secret = #$
+access_token = #$
+access_token_secret = #$
 
 # OAuth process, using the keys and tokens
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
